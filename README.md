@@ -8,4 +8,4 @@ An interactive Excel dashboard that visualizes coffee sales data across differen
 - Interactive charts and KPIs for quick analysis
 - Great for business intelligence and sales performance tracking
 
-Created using Microsoft Excel with pivot tables and slicers — no code needed!
+Created using Microsoft Excel with pivot tables and slicers.
